@@ -6,7 +6,7 @@ public class Conexion
     private String driver="com.mysql.jdbc.Driver";
     private String url="jdbc:mysql://localhost:3306/encriptar";
     private String user="root";
-    private String pwd="root";
+    private String pwd="";
     
     public Conexion()
     {}
