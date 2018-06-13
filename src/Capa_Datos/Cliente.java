@@ -13,7 +13,7 @@ public class Cliente {
     private String apellido1;
     private String direccion;
     private String telefono;
-    
+    //Prueba repositorio
 public String EliminarCliente()
     {
         Conexion objmod=new Conexion();
